@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/movie_app_2020/static/js/main.75f3fd8a.chunk.js",
-    "main.js.map": "/movie_app_2020/static/js/main.75f3fd8a.chunk.js.map",
-    "runtime-main.js": "/movie_app_2020/static/js/runtime-main.4acb33f9.js",
-    "runtime-main.js.map": "/movie_app_2020/static/js/runtime-main.4acb33f9.js.map",
-    "static/js/2.0309ec11.chunk.js": "/movie_app_2020/static/js/2.0309ec11.chunk.js",
-    "static/js/2.0309ec11.chunk.js.map": "/movie_app_2020/static/js/2.0309ec11.chunk.js.map",
-    "index.html": "/movie_app_2020/index.html",
-    "precache-manifest.28cc07b3c86881b7a9458ccd30e0cff6.js": "/movie_app_2020/precache-manifest.28cc07b3c86881b7a9458ccd30e0cff6.js",
-    "service-worker.js": "/movie_app_2020/service-worker.js",
-    "static/js/2.0309ec11.chunk.js.LICENSE.txt": "/movie_app_2020/static/js/2.0309ec11.chunk.js.LICENSE.txt",
-    "static/media/NoPoster.png": "/movie_app_2020/static/media/NoPoster.4741e5e4.png"
+    "main.js": "/quickflix/static/js/main.75f3fd8a.chunk.js",
+    "main.js.map": "/quickflix/static/js/main.75f3fd8a.chunk.js.map",
+    "runtime-main.js": "/quickflix/static/js/runtime-main.7dedcd96.js",
+    "runtime-main.js.map": "/quickflix/static/js/runtime-main.7dedcd96.js.map",
+    "static/js/2.54e684ba.chunk.js": "/quickflix/static/js/2.54e684ba.chunk.js",
+    "static/js/2.54e684ba.chunk.js.map": "/quickflix/static/js/2.54e684ba.chunk.js.map",
+    "index.html": "/quickflix/index.html",
+    "precache-manifest.aa7bc0b54506d0dd67a8697dd481e842.js": "/quickflix/precache-manifest.aa7bc0b54506d0dd67a8697dd481e842.js",
+    "service-worker.js": "/quickflix/service-worker.js",
+    "static/js/2.54e684ba.chunk.js.LICENSE.txt": "/quickflix/static/js/2.54e684ba.chunk.js.LICENSE.txt",
+    "static/media/NoPoster.png": "/quickflix/static/media/NoPoster.4741e5e4.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4acb33f9.js",
-    "static/js/2.0309ec11.chunk.js",
+    "static/js/runtime-main.7dedcd96.js",
+    "static/js/2.54e684ba.chunk.js",
     "static/js/main.75f3fd8a.chunk.js"
   ]
 }
