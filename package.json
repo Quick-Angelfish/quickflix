@@ -29,7 +29,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://Quick-Angelfish.github.io/movie_app_2020",
+  "homepage": "https://Quick-Angelfish.github.io/quickflix",
   "browserslist": {
     "production": [
       ">0.2%",
